@@ -1,0 +1,14 @@
+button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* No borders */
+    color: white; /* White text */
+    padding: 15px 18px; /* Padding around the text */
+    text-align: center; /* Center the text inside the button */
+    text-decoration: none; /* No underline on the text */
+    display: inline-block; /* Align the button next to other elements */
+    font-size: 16px; /* Standard font size */
+    margin:0; /* Margin around the button */
+    cursor: pointer; /* Cursor changes to pointer when hovering over the button */
+    border-radius: 4px; /* Rounded corners */
+}
+
